@@ -8,7 +8,7 @@ Esta es una pagina creada con html css
 * [Gmail](https:/www.ronald.bismark003@gmail.com)
 
 ## Ver ejemplo en vivo
--[ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
+-[https://ronald-bismar.github.io/mi-pagina-de-bicicletas/](https://ronald-bismar.github.io/mi-pagina-de-bicicletas/)
 
 ## Instalacion
 Este proyecto no necesita ser instalado. Simplemente abre la carpeta o haz doble click en el .html
