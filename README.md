@@ -5,7 +5,6 @@ Esta es una pagina creada con html css
 **Ronald Bismar Limachi Mamani**
 
 * [LinkedIn](https://www.linkedin.com/in/ronald-bismar)
-* [Behance](https://behance.net/midominio)
 * [Gmail](https:/www.ronald.bismark003@gmail.com)
 
 ## Ver ejemplo en vivo
